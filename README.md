@@ -1,7 +1,6 @@
 - 👋 Hello, My name is Danielle Ellis (@thedanielleellis). I am a Full Stack Software Developer with a passion for applying new technologies to enhance the professional and innovative atmosphere of an organization and working with dedicated teams to build efficient and robust applications. With a background in executive administration, I know how to prioritize competing tasks under pressure, meet deadlines, and deliver a quality product for the client.
 - 🌱 Languages/Frameworks: <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">                                     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
